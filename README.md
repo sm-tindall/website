@@ -7,3 +7,7 @@ the end of this
 
 these are a few changes to readme
 
+### getting started
+
+this is the getting started section
+
